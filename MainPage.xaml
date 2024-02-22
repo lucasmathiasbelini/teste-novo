@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="hahaha.MainPage">
+
+<StackLayout>
+<Image Source="shrek.jpg"/>
+<Label Text="OLÁ seja bem vindo ao gerador de img!!"
+BackgroundColor="Yellow"
+Margin="5,50"
+/>
+<Button Text='OPA'
+  BackgroundColor="black">
+</Button>
+
+<Image Source="jojo.jpg"
+Margin="15,15"
+/>
+</StackLayout>
+
+
+</ContentPage>
